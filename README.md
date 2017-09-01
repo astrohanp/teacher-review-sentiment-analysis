@@ -9,7 +9,7 @@ We have included a training set of data, teacher reviews from [ratemyprofessors.
 
 Content of the Repo
 ------
-####Code
+#### Code
 
 Classifier.ipynb
 Classifier_SVC.ipynb
@@ -22,7 +22,7 @@ RateMyProfessors Scraping.ipynb
 
 Jupyter notebook with code that can scrape ratemyprofessors for reviews, which we used to build our dataset
 
-####Data
+#### Data
 
 Labelled professor reviews:
 /data/Evaluations-Binary.csv
